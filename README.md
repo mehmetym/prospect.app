@@ -1,1 +1,2 @@
-# prospect.app
+# prospect
+.app

@@ -5,7 +5,7 @@
 **Petrol bazlı ürün zekâsı: takip, tahmin ve aksiyon-odaklı uyarı motoru**
 
 *BTK Hackathon 2026 — Resmi başvuru deposu*  
-
+ 
 [![Status](https://img.shields.io/badge/status-MVP-c8ff3e?style=flat-square)]()
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)]()
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b?style=flat-square)]()

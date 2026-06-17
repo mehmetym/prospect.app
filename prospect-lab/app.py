@@ -4,7 +4,7 @@ Petrol Bazlı Ürün Takip, Tahmin ve Uyarı Sistemi
 BTK Hackathon 2026 — MVP
 
 Çalıştırma: streamlit run app.py
-Web: https://prospect.app
+Web: https://prospect.app 
 """
 import streamlit as st
 import pandas as pd
